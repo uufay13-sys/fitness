@@ -1,0 +1,6 @@
+{
+  "name": "UMR AURA",
+  "description": "LEAVE BETTER. Personal AI Fitness Agent with intelligent workout coaching, exercise vision analysis, nutrition logging, and personalized fitness memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

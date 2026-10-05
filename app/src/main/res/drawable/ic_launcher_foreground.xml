@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Stylized AURA "A" Crest & Fitness Pulse Core -->
+    <path
+        android:pathData="M54,23 L32,75 L42,75 L48,60 L60,60 L66,75 L76,75 Z M54,43 L58,53 L50,53 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="32"
+                android:startY="23"
+                android:endX="76"
+                android:endY="75"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#00FFA3" />
+                <item android:offset="1.0" android:color="#00C9FF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Dynamic Athletic Aura Wings -->
+    <path
+        android:pathData="M24,54 C24,42 34,31 46,28 L44,24 C30,27 20,40 20,54 C20,68 30,81 44,84 L46,80 C34,77 24,66 24,54 Z"
+        android:fillColor="#00C9FF" />
+
+    <path
+        android:pathData="M84,54 C84,66 74,77 62,80 L64,84 C78,81 88,68 88,54 C88,40 78,27 64,24 L62,28 C74,31 84,42 84,54 Z"
+        android:fillColor="#00FFA3" />
+
+    <!-- Pulse Node at Center Core -->
+    <path
+        android:pathData="M54,77 L56.5,82 L62,82 L57.5,85.5 L59.5,91 L54,87.5 L48.5,91 L50.5,85.5 L46,82 L51.5,82 Z"
+        android:fillColor="#FFFFFF" />
+
+</vector>
